@@ -1,0 +1,12 @@
+[
+  {
+    "cmd": "a",
+    "act": "aa",
+    "prompt": "aaa aaa aaa"
+  },
+  {
+    "cmd": "b",
+    "act": "bb",
+    "prompt": "bbb bbb bbb"
+  }
+]
