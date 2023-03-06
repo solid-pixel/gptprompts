@@ -1,0 +1,8 @@
+[
+  {
+    "cmd": "resume",
+    "act": "",
+    "prompt": "Your code was incomplete. Resume the code, and make sure to use backticks. Don’t give me the full code, just resume from where you left off in your last message."
+  },
+
+]
