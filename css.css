@@ -1,3 +1,6 @@
-body {
-    opacity: .3 !important;
-}
+img[alt="User"] {
+    border-radius: 100%;
+    }   
+    .relative.p-1.rounded-sm {
+        border-radius: 100%;
+        }
