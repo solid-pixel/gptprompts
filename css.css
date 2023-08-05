@@ -28,3 +28,12 @@ img[alt="User"] {
     opacity: 0.5;
     /* text-align: right; */
 }
+
+pre {
+    margin: 20px 0 !important;
+}
+
+pre .bg-gray-800 {
+    background-color: #393b3d !important;
+    color: #999;
+}
