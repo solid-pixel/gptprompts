@@ -25,7 +25,7 @@ img[alt="User"] {
 }
 
 .text-token-text-primary:nth-child(even) {
-    opacity: 0.5;
+    opacity: 0.8;
     /* text-align: right; */
 }
 
