@@ -1,6 +1,11 @@
 img[alt="User"] {
     border-radius: 100%;
-    }   
-    .relative.p-1.rounded-sm {
-        border-radius: 100%;
-        }
+}
+
+.relative.p-1.rounded-sm {
+    border-radius: 100%;
+}
+
+.bg-gray-800 {
+    background-color: #cccccc !important;
+}
